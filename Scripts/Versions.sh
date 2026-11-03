@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+BINUTILS_VERSION=2.46.0
+GCC_VERSION=16.2.0

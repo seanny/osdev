@@ -1,0 +1,14 @@
+# Downloaded toolchain archives
+/release/
+
+# Extracted third-party toolchain sources
+/src/
+
+# Intermediate build files
+/build/
+
+# Installed cross-toolchain and project output
+/out/
+
+# macOS metadata
+.DS_Store
